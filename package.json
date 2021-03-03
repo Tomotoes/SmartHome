@@ -95,7 +95,7 @@
 		"eslint-plugin-vue": "^4.7.1",
 		"nodemon": "^1.18.3",
 		"pm2": "^2.10.4",
-		"pug": "^2.0.3",
+		"pug": "^3.0.1",
 		"pug-loader": "^2.4.0",
 		"pug-plain-loader": "^1.0.0",
 		"stylus": "^0.54.5",
